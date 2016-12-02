@@ -8,7 +8,6 @@ using namespace std;
 
 int main()
 {
-    int N;
     string str;
     while( getline( cin, str ))
     {
